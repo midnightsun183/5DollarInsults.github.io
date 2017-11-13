@@ -19,7 +19,7 @@
 - [ ] Twitter Bot
 - [ ] FB Bot
 - [ ] Actually learn JS
-- [ ] Dynamic "Fucker" on buttons/webpages
+- [x] Dynamic "Fucker" on buttons/webpages
 - [ ] Change Apperance of PayPal button
 
 

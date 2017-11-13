@@ -1,5 +1,5 @@
 # FIVE DOLLAR INSULTS
-##Hurling insults since 2017!
+## Hurling insults since 2017!
 
 ### THE "TO DO" LIST
 * ~~Make website~~
@@ -31,7 +31,8 @@
 
 
 
-
+<BR>
+  <BR>
 # Special thank-you to these fuckers!
 # Fucking Insult Generator
 The best fucking automatic insult generator

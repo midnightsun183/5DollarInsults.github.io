@@ -10,6 +10,7 @@
 - [ ] Check if user has JS enabled
 - [ ] Prevent link short-cutting
 - [ ] Pay another dollar for more insults?
+- [ ] Add logo
 
 
 
@@ -26,7 +27,7 @@
 
 
 ### I"LL GET TO IT...
-- [ ] 
+- [ ] BootStap
 - [ ] 
 
 

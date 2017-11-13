@@ -6,7 +6,8 @@
 - [x] Insult generator
 - [x] Buttons
 - [ ] PayPal proper link
-- [ ] Prevent right click
+- [ ] Prevent right click?
+- [ ] DNS redirect to .com
 - [ ] Check if user has JS enabled
 - [ ] Prevent link short-cutting
 - [ ] Pay another dollar for more insults?

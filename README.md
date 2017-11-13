@@ -1,3 +1,38 @@
+# FIVE DOLLAR INSULTS
+##Hurling insults since 2017!
+
+### THE "TO DO" LIST
+* ~~Make website~~
+* ~~Insult generator~~
+* ~~Buttons~~
+* PayPal proper link
+* Prevent right click
+* Check if user has JS enabled
+* Prevent link short-cutting
+* Pay another dollar for more insults?
+
+
+
+### TO DO SOMETIME "SOON"
+* Social Media 
+* Twitter Bot
+* FB Bot
+* Actually learn JS
+* Dynamic "Fucker" on buttons/webpages
+
+
+### I"LL GET TO IT...
+*
+
+## LAUNCHING: 3, 2, 1...
+###LAUNCH TO DO:
+
+
+
+
+
+
+# Special thank-you to these fuckers!
 # Fucking Insult Generator
 The best fucking automatic insult generator
 

@@ -5,38 +5,38 @@
 - [x] Make website
 - [x] Insult generator
 - [x] Buttons
-- [] PayPal proper link
-- [] Prevent right click
-- [] Check if user has JS enabled
-- [] Prevent link short-cutting
-- [] Pay another dollar for more insults?
+- [ ] PayPal proper link
+- [ ] Prevent right click
+- [ ] Check if user has JS enabled
+- [ ] Prevent link short-cutting
+- [ ] Pay another dollar for more insults?
 
 
 
 
 ### TO DO SOMETIME "SOON"
-- [] Social Media 
-- [] Twitter Bot
-- [] FB Bot
-- [] Actually learn JS
-- [] Dynamic "Fucker" on buttons/webpages
-- [] Change Apperance of PayPal button
+- [ ] Social Media 
+- [ ] Twitter Bot
+- [ ] FB Bot
+- [ ] Actually learn JS
+- [ ] Dynamic "Fucker" on buttons/webpages
+- [ ] Change Apperance of PayPal button
 
 
 
 
 ### I"LL GET TO IT...
-- [] 
-- [] 
+- [ ] 
+- [ ] 
 
 
 ------
 ## LAUNCHING: 3, 2, 1...
 ### LAUNCH TO DO:
 
-- [] 
-- [] 
-- [] 
+- [ ] 
+- [ ] 
+- [ ] 
 
 
 

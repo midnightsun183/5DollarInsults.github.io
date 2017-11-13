@@ -13,28 +13,37 @@
 
 
 
+
 ### TO DO SOMETIME "SOON"
 * Social Media 
 * Twitter Bot
 * FB Bot
 * Actually learn JS
 * Dynamic "Fucker" on buttons/webpages
+* Change Apperance of PayPal button
+
+
 
 
 ### I"LL GET TO IT...
 *
+*
+
+
 ------
 ## LAUNCHING: 3, 2, 1...
 ### LAUNCH TO DO:
 
+*
+*
+*
 
 
 
-
-<BR>
-  <BR>
+------
 # Special thank-you to these fuckers!
 # Fucking Insult Generator
+
 The best fucking automatic insult generator
 
 Contributions and pull requests for cuss words, nouns, and example sentences welcome! Or if you want to like, write a fucking API for us or some shit.

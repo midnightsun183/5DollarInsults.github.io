@@ -21,19 +21,20 @@
 <body>
 	
 <!-- Check if user has JS enabled 
-	<noscript>
- 	   <style type="text/css">
-  	      .pagecontainer {display:none;}
- 	  	 </style>
-  	 	 <div class="noscriptmsg">
- 		 You don't have javascript enabled.  Good luck with that.
-		</div>
-	</noscript>
+
+
 <!-- ...where all of the content in your site is wrapped with a div of class "pagecontainer". The CSS inside the noscript tag will then hide all of your page content, and instead display whatever "no JS" message you want to show. This is actually what Gmail appears to do...and if it's good enough for Google, it's good enough for my little site.
 
 https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabled
 -->
-	
+	<noscript>
+ 	   <style type="text/css">
+  	      .pagecontainer {display:none;}
+ 	  	 </style>
+  	 	 <div class="noscriptmsg"> 		 
+			 You don't have javascript enabled.  Good luck with that.
+
+<!-- CHECK IF JS ENABLED -->			 
 	
 	<div class="fucking site-wrapper" id="site-wrapper">
 		<header class="fucking shit header">
@@ -73,5 +74,8 @@ https://stackoverflow.com/questions/121203/how-to-detect-if-javascript-is-disabl
 		</footer>
 	</div>
 <script src="js/min/insult-min.js"></script>
+			<!-- END CHECK IF JS ENABLED -->
+		</div>
+	</noscript>
 </body>
 </html>

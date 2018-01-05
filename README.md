@@ -5,19 +5,25 @@
 - [x] Make website
 - [x] Insult generator
 - [x] Buttons
-- [ ] PayPal proper link
+- [x] PayPal proper link
 - [ ] Prevent right click?
-- [ ] DNS redirect to .com
+- [x] DNS redirect to .com
 - [ ] Check if user has JS enabled
 - [ ] Prevent link short-cutting
 - [ ] Pay another dollar for more insults?
 - [ ] Add logo
-
+- [ ] Paypal button as insult.
 
 
 
 ### TO DO SOMETIME "SOON"
 - [ ] Social Media 
+  - [ ] Facebook
+  - [ ] Reddit
+  - [ ] Instagram
+  - [ ] Youtube
+  - [ ] Tumblr
+  - [ ] Snapchat?
 - [ ] Twitter Bot
 - [ ] FB Bot
 - [ ] Actually learn JS

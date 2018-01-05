@@ -19,7 +19,7 @@
 ### TO DO SOMETIME "SOON"
 - [ ] Social Media 
   - [x] Facebook
-  - [ ] Reddit
+  - [x] Reddit
   - [ ] Instagram
   - [ ] Youtube
   - [ ] Tumblr
@@ -34,16 +34,15 @@
 
 ### I"LL GET TO IT...
 - [ ] BootStap
-- [ ] 
 
 
 ------
 ## LAUNCHING: 3, 2, 1...
 ### LAUNCH TO DO:
 
-- [ ] 
-- [ ] 
-- [ ] 
+- [ ] Launch
+- [ ] ???
+- [ ] Profit
 
 
 

@@ -14,11 +14,11 @@
 - [ ] Add logo
 - [ ] Paypal button as insult.
 
-
+------
 
 ### TO DO SOMETIME "SOON"
 - [ ] Social Media 
-  - [ ] Facebook
+  - [x] Facebook
   - [ ] Reddit
   - [ ] Instagram
   - [ ] Youtube
@@ -28,10 +28,9 @@
 - [ ] FB Bot
 - [ ] Actually learn JS
 - [x] Dynamic "Fucker" on buttons/webpages
-- [ ] Change Apperance of PayPal button
 
 
-
+------
 
 ### I"LL GET TO IT...
 - [ ] BootStap
